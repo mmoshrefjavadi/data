@@ -1,4 +1,4 @@
-﻿Carrier,orig_port_cd,dest_port_cd,minm_wgh_qty,max_wgh_qty,svc_cd,minimum cost,rate,mode_dsc,tpt_day_cnt,Carrier type
+Carrier,orig_port_cd,dest_port_cd,minm_wgh_qty,max_wgh_qty,svc_cd,minimum cost,rate,mode_dsc,tpt_day_cnt,Carrier type
 V444_6,PORT08,PORT09,250,499.99,DTD, $43.23 , $0.71 ,AIR   ,2,V88888888_0
 V444_6,PORT08,PORT09,65,69.99,DTD, $43.23 , $0.75 ,AIR   ,2,V88888888_0
 V444_6,PORT08,PORT09,60,64.99,DTD, $43.23 , $0.79 ,AIR   ,2,V88888888_0
